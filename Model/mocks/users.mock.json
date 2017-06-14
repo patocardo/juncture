@@ -1,0 +1,16 @@
+[
+	{
+		"id": 1,
+		"name": "Fulano Mengano",
+		"since": 1497458404,
+		"role": "user",
+		"identity-provider": "Google",
+	},
+	{
+		"id": 1,
+		"name": "John Doe",
+		"since": 1497804004,
+		"role": "user",
+		"identity-provider": "Facebook",
+	},
+]
